@@ -1,5 +1,9 @@
 # Converting CSV file to VCF file for [Bilgisayar ve Bilişim Teknolojileri Kulübü](http://bbtk.ogu.edu.tr/)
 
+
+![csvToVcfGif](https://user-images.githubusercontent.com/53192718/97028126-5ca28600-1564-11eb-9d8b-0fc68d114157.gif)
+
+
 ## Excel save order
 ---------------------------------------------------------------------------------------------
 |  NAME	 |   SURNAME  | STUDENT ID  | DEPARTMENT |   PHONE NUMBER   |       E-MAIL          | 
